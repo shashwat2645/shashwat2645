@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashwat2645
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Java, Python, Front End Development
 - 📫 How to reach me singhshashwat133@gmail.com
 
 <!---
