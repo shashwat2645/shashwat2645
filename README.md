@@ -1,5 +1,5 @@
 🚀 About Me
-👋 Hi, I’m Shashwat Singh aka Topieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee — a BTech student specializing in CSE with AIML @Pranveer Singh Institute of Technology, Kanpur.
+👋 Hi, I’m Shashwat Singh — a BTech student specializing in CSE with AIML @Pranveer Singh Institute of Technology, Kanpur.
 🛠️ I’m passionate about hardware integration and blending artificial intelligence with robotics.
 🎯 My goal is to build intelligent systems that bridge the gap between hardware and software.
 
