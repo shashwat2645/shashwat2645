@@ -1,22 +1,37 @@
-🚀 About Me
-👋 Hi, I’m Shashwat Singh — a BTech student specializing in CSE with AIML @Pranveer Singh Institute of Technology, Kanpur.
-🛠️ I’m passionate about hardware integration and blending artificial intelligence with robotics.
-🎯 My goal is to build intelligent systems that bridge the gap between hardware and software.
+# Hi there 👋, I'm Shashwat Singh
 
-🔧 My Skills
-Programming Languages: Python, C, C++, Java
+Welcome to my GitHub! I'm a passionate tech enthusiast diving deep into **Artificial Intelligence, Robotics, IoT, and App Development**. I love building cool projects that combine hardware and software, and I'm always experimenting with new technologies.  
 
-💡 Interests
-Exploring AI-driven solutions in hardware projects
+---
 
-🌱 What I’m Currently Learning
-Advanced AI integrations in Python 
+## 🚀 About Me
+- 🎓 Currently pursuing **BTech in Computer Science (Specialization: AI & ML)**  
+- 💻 Exploring **Python, C++ **  
+- 🤖 Interested in **ML and AI projects**  
+- 🌱 Always learning and upskilling in **DSA and ML**  
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/shashwat-singh) | [Email](mailto:your.email@example.com)
 
-📫 How to Reach Me
-📧 singhshashwat133@gmail.com
-💼 www.linkedin.com/in/shashwat-singh-5a0963308
+---
 
-<!---
-shashwat2645/shashwat2645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Skills & Tech Stack
+- **Programming Languages:** Python, C++  
+- **Web & App Dev:** HTML, CSS, Bootstrap  
+- **AI & ML:** NumPy, Pandas, Matplotlib, Scikit-learn, OpenCV 
+- **Hardware & IoT:** Arduino, ESP32, Sensors, Robotics  
+
+---
+
+## 📂 GitHub Highlights
+Here you'll find a mix of:
+- Fun coding projects  
+- AI/ML practice projects  
+- Frontend & backend explorations  
+
+---
+
+## ⚡ Fun Fact
+I like turning ideas into **real-life working prototypes**. If it’s possible to build it, I’ll try to make it happen!  
+
+---
+
+Thanks for stopping by my GitHub! 🚀
