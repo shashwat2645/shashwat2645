@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate tech enthusiast diving deep into **Artifi
 
 ## 🚀 About Me
 - 🎓 Currently pursuing **BTech in Computer Science (Specialization: AI & ML)**  
-- 💻 Exploring **Python, C++ **  
+- 💻 Exploring **Python, C++**  
 - 🤖 Interested in **ML and AI projects**  
 - 🌱 Always learning and upskilling in **DSA and ML**  
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/shashwat-singh) | [Email](mailto:your.email@example.com)
