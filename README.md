@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Shashwat Singh
 
-Welcome to my GitHub! I'm a passionate tech enthusiast diving deep into **Artificial Intelligence, Robotics, IoT, and App Development**. I love building cool projects that combine hardware and software, and I'm always experimenting with new technologies.  
+Welcome to my GitHub! I’m a tech enthusiast focused on Artificial Intelligence, Machine Learning, and Data Analysis. I enjoy working with data, building ML models, and turning insights into practical solutions—especially when theory meets real-world use cases.
 
 ---
 
@@ -9,15 +9,14 @@ Welcome to my GitHub! I'm a passionate tech enthusiast diving deep into **Artifi
 - 💻 Exploring **Python, C++**  
 - 🤖 Interested in **ML and AI projects**  
 - 🌱 Always learning and upskilling in **DSA and ML**  
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/shashwat-singh) | [Email](mailto:your.email@example.com)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/shashwat-singh) | [Email](mailto:2k23csaiml2310582@gmail.com)
 
 ---
 
 ## 🛠️ Skills & Tech Stack
 - **Programming Languages:** Python, C++  
 - **Web & App Dev:** HTML, CSS, Bootstrap  
-- **AI & ML:** NumPy, Pandas, Matplotlib, Scikit-learn, OpenCV 
-- **Hardware & IoT:** Arduino, ESP32, Sensors, Robotics  
+- **AI & ML:** NumPy, Pandas, Matplotlib, Scikit-learn, OpenCV
 
 ---
 
