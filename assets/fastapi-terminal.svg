@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+
+<style>
+    .bg{
+        fill:#0d1117;
+        stroke:#30363d;
+        stroke-width:1;
+    }
+
+    .title{
+        fill:#8b949e;
+        font:14px "Fira Code", monospace;
+    }
+
+    .text{
+        fill:#d2d7de;
+        font:18px "Fira Code", monospace;
+        opacity:0;
+    }
+
+    .info{
+        fill:#00F5D4;
+    }
+
+    .json-key{
+        fill:#79c0ff;
+        opacity:0;
+        font:18px "Fira Code", monospace;
+    }
+
+    .json-value{
+        fill:#a5d6ff;
+        opacity:0;
+        font:18px "Fira Code", monospace;
+    }
+
+    .cursor{
+        fill:#00F5D4;
+        animation:blink 1s infinite;
+    }
+
+    @keyframes blink{
+        0%,45%{opacity:1;}
+        46%,100%{opacity:0;}
+    }
+</style>
+
+<rect class="bg" x="5" y="5" width="890" height="320" rx="10"/>
+
+<circle cx="25" cy="22" r="6" fill="#ff5f56"/>
+<circle cx="45" cy="22" r="6" fill="#ffbd2e"/>
+<circle cx="65" cy="22" r="6" fill="#27c93f"/>
+
+<text x="90" y="27" class="title">
+uvicorn@shashwat:~/portfolio
+</text>
+
+<!-- Line 1 -->
+<text x="30" y="60" class="text info">
+INFO:     Started server process [2645]
+<animate attributeName="opacity"
+values="0;1;1"
+keyTimes="0;0.05;1"
+dur="14s"
+repeatCount="indefinite"/>
+</text>
+
+<!-- Line 2 -->
+<text x="30" y="90" class="text info">
+INFO:     Waiting for application startup.
+<animate attributeName="opacity"
+values="0;0;1;1"
+keyTimes="0;0.10;0.15;1"
+dur="14s"
+repeatCount="indefinite"/>
+</text>
+
+<!-- Line 3 -->
+<text x="30" y="120" class="text info">
+INFO:     Application startup complete.
+<animate attributeName="opacity"
+values="0;0;1;1"
+keyTimes="0;0.20;0.25;1"
+dur="14s"
+repeatCount="indefinite"/>
+</text>
+
+<!-- Line 4 -->
+<text x="30" y="150" class="text info">
+INFO:     Uvicorn running on http://127.0.0.1:8000
+<animate attributeName="opacity"
+values="0;0;1;1"
+keyTimes="0;0.30;0.35;1"
+dur="14s"
+repeatCount="indefinite"/>
+</text>
+
+<!-- Blank then request -->
+<text x="30" y="190" class="text">
+INFO:     127.0.0.1:54321 - "GET / HTTP/1.1" 200 OK
+<animate attributeName="opacity"
+values="0;0;1;1"
+keyTimes="0;0.45;0.50;1"
+dur="14s"
+repeatCount="indefinite"/>
+</text>
+
+<!-- JSON -->
+<text x="30" y="225" class="json-key">
+{
+<animate attributeName="opacity"
+values="0;0;1;1"
+keyTimes="0;0.55;0.60;1"
+dur="14s"
+repeatCount="indefinite"/>
+</text>
+
+<text x="55" y="250" class="json-key">
+"message":
+<animate attributeName="opacity"
+values="0;0;1;1"
+keyTimes="0;0.60;0.65;1"
+dur="14s"
+repeatCount="indefinite"/>
+</text>
+
+<text x="180" y="250" class="json-value">
+"Thanks for visiting my GitHub! 🚀",
+<animate attributeName="opacity"
+values="0;0;1;1"
+keyTimes="0;0.65;0.70;1"
+dur="14s"
+repeatCount="indefinite"/>
+</text>
+
+<text x="55" y="275" class="json-key">
+"next":
+<animate attributeName="opacity"
+values="0;0;1;1"
+keyTimes="0;0.70;0.75;1"
+dur="14s"
+repeatCount="indefinite"/>
+</text>
+
+<text x="140" y="275" class="json-value">
+"Let's build something amazing together."
+<animate attributeName="opacity"
+values="0;0;1;1"
+keyTimes="0;0.75;0.80;1"
+dur="14s"
+repeatCount="indefinite"/>
+</text>
+
+<text x="30" y="300" class="json-key">
+}
+<animate attributeName="opacity"
+values="0;0;1;1"
+keyTimes="0;0.80;0.85;1"
+dur="14s"
+repeatCount="indefinite"/>
+</text>
+
+<!-- Cursor -->
+<rect x="43" y="287" width="10" height="16" class="cursor"/>
+
+</svg>
