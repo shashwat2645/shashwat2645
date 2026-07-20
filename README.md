@@ -84,15 +84,27 @@ Content-Type: application/json
 
 ---
 
+<!--
+# `GET /last-updates`
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+<!--
+
+# `GET /coding-stats`
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
 # `GET /metrics`
 
 <p align="center">
 <img height="170" src="https://ghstats.dev/api/card?username=shashwat2645&theme=tokyonight"/>
 <img height="170" src="https://streak-stats.demolab.com?user=shashwat2645&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shashwat2645&layout=compact&theme=tokyonight&hide_border=true
 </p>
 
 <p align="center">
@@ -126,7 +138,11 @@ Content-Type: application/json
 
 
 
+<p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwat2645&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 
 
