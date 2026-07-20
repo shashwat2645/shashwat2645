@@ -4,13 +4,19 @@
 </p>
 
 <h1 align="center">Shashwat Singh</h1>
-<h3 align="center">AI & ML Enthusiast • Backend Developer </h3>
+<h3 align="center">• Backend Developer •</h3>
 
 <p align="center">
 
 ![](https://img.shields.io/badge/STATUS-Building_Intelligent_APIs-00F5D4?style=for-the-badge&logo=fastapi&logoColor=black)
-![](https://img.shields.io/badge/STACK-FastAPI_|_AI_|_PostgreSQL-6366F1?style=for-the-badge)
+![](https://img.shields.io/badge/STACK-Python_|_FastAPI_|_C++_|_PostgreSQL-6366F1?style=for-the-badge)
 ![](https://img.shields.io/badge/LEETCODE-Rising_Coder-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shashwat2645&label=Visitors&color=00F5D4&style=for-the-badge"/>
 
 </p>
 
@@ -23,15 +29,17 @@
 ```http
 HTTP/1.1 200 OK
 Content-Type: application/json
-```
 
-```json
 {
-  "name":"Shashwat Singh",
-  "role":"AI Backend Developer",
-  "education":"B.Tech CSE (AI & ML)",
-  "status":"Building Intelligent APIs",
-  "open_to":["Internships","Projects","Collaborations"]
+  "name": "Shashwat Singh",
+  "role": "Backend Developer",
+  "specialization": "FastAPI • PostgreSQL • Python",
+  "status": "Building Intelligent APIs",
+  "open_to": [
+    "Internships",
+    "Projects",
+    "Collaborations"
+  ]
 }
 ```
 
@@ -60,7 +68,7 @@ Content-Type: application/json
 <p><img src="https://skillicons.dev/icons?i=python,cpp,mysql"/></p>
 
 ## ⚙️ Backend
-<p><img src="https://skillicons.dev/icons?i=fastapi"/></p>
+<p><img src="https://skillicons.dev/icons?i=fastapi,django"/></p>
 
 ## 🗄️ Databases
 <p><img src="https://skillicons.dev/icons?i=postgres,mysql"/></p>
@@ -72,7 +80,7 @@ Content-Type: application/json
 <p><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib"/></p>
 
 ## 🛠 Tools
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/></p>
 
 ---
 
@@ -112,17 +120,14 @@ Content-Type: application/json
 
 ---
 
-```log
-INFO:     Uvicorn running on http://127.0.0.1:8000
-INFO:     GET /profile ............. 200 OK
-INFO:     GET /tech-stack .......... 200 OK
-INFO:     GET /metrics ............. 200 OK
-INFO:     POST /connect ............ 201 Created
+<p align="center">
+  <img src="assets/fastapi-terminal.svg" width="900" />
+</p>
 
-{
-  "message": "Thanks for visiting my GitHub! 🚀",
-  "next": "Let's build something amazing together."
-}
 
-INFO:     Waiting for the next request...
-```
+
+
+
+
+
+
