@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m a tech enthusiast focused on Artificial Intelligence
 - 💻 Exploring **Python, C++**  
 - 🤖 Interested in **ML and AI projects**  
 - 🌱 Always learning and upskilling in **DSA and ML**  
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/shashwat-singh) | [Email](mailto:2k23csaiml2310582@gmail.com)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/singhshashwat26) | [Email](mailto:2k23csaiml2310582@gmail.com)
 
 ---
 
