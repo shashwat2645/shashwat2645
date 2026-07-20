@@ -136,14 +136,3 @@ Content-Type: application/json
   <img src="assets/fastapi-terminal.svg" width="900" />
 </p>
 
-
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwat2645&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-
-
-
