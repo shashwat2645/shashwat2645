@@ -23,5 +23,4 @@ jobs:
           SHOW_TOTAL: true
           TIME_RANGE: last_7_days
           LANG_COUNT: 6
-          BLOCKS: █▓▒░
           CODE_LANG: text
