@@ -84,6 +84,32 @@ Content-Type: application/json
 
 ---
 
+# `GET /hackathons`
+
+```json
+{
+  "participated": [
+    {
+      "event": "Vibe2Ship Hackathon",
+      "organizer": "Coding Ninjas × Google for Developers",
+      "focus": "AI-powered Productivity & Backend Development"
+    },
+    {
+      "event": "Bhartiya Antariksha Hackathon 2026",
+      "organizer": "Indian Space Research Organisation (ISRO)",
+      "focus": "Space Technology & Innovation"
+    },
+    {
+      "event": "Odoo Hackathon",
+      "organizer": "Odoo",
+      "focus": "Full Stack Development & Problem Solving"
+    }
+  ]
+}
+```
+
+---
+
 # `GET /metrics`
 
 <p align="center">
