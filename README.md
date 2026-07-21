@@ -24,7 +24,7 @@
 
 # `GET /profile`
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndnOHpvazl2MWlpbXZ0amFhc210MmZ6Zms2YThodWtwNjJ1bWZvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62wTjoLx5u/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
 ```http
 HTTP/1.1 200 OK
@@ -83,29 +83,6 @@ Content-Type: application/json
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/></p>
 
 ---
-
-<!--
-# `GET /last-updates`
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
-<!--
-
-# `GET /coding-stats`
-
-<!--START_SECTION:waka-->
-
-```text
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
 
 # `GET /metrics`
 
