@@ -1,9 +1,9 @@
 name: Update WakaTime Stats
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write
@@ -18,9 +18,18 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: false
+
+          SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_TOTAL: true
-          TIME_RANGE: last_7_days
+          SHOW_MASKED_TIME: false
+
           LANG_COUNT: 6
+
+          TIME_RANGE: last_7_days
+
+          BLOCKS: █▓▒░
+
           CODE_LANG: text
+
+          COMMIT_MESSAGE: "Updated WakaTime stats"
