@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="186" viewBox="0 0 264 186" role="img" aria-labelledby="t d">
+<title id="t">Newgen · LTM</title><desc id="d">Placed at both as a final-year student. — Class of 2027</desc>
+<defs>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#0E1529"/><stop offset="1" stop-color="#080C18"/>
+</linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#5EE6B8" stop-opacity="0.17"/><stop offset="1" stop-color="#5EE6B8" stop-opacity="0"/></radialGradient></defs>
+<style>
+.s{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.m{font-family:"JetBrains Mono","Fira Code",ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+@keyframes blink{0%,49%{fill-opacity:1}50%,100%{fill-opacity:0}}
+@keyframes flow{to{stroke-dashoffset:-20}}
+.cur{animation:blink 1.1s steps(1) infinite}
+.flow{stroke-dasharray:5 5;animation:flow 1.4s linear infinite}
+@media (prefers-reduced-motion:reduce){.cur,.flow{animation:none}}
+</style>
+<rect x="5" y="5" width="254" height="176" rx="16" fill="url(#panel)" stroke="#222B47" stroke-width="1"/><clipPath id="pc"><rect x="5" y="5" width="254" height="176" rx="16"/></clipPath><g clip-path="url(#pc)"><circle cx="5" cy="5" r="150" fill="url(#glow)"/></g><text class="m" x="25" y="37" font-size="10.5" font-weight="700" fill="#5EE6B8" letter-spacing="1.6">PLACEMENT</text><text class="s" x="25" y="67" font-size="17" font-weight="800" fill="#E8ECF8">Newgen · LTM</text><text class="s" x="25" y="90" font-size="12.5" font-weight="400" fill="#9AA5C4">Placed at both as a final-year</text><text class="s" x="25" y="107" font-size="12.5" font-weight="400" fill="#9AA5C4">student.</text><rect x="25" y="141" width="100" height="22" rx="11.0" fill="#16213F" stroke="#303C66" stroke-width="1"/><text class="m" x="34" y="155.78" font-size="10.5" font-weight="500" fill="#E8ECF8">Class of 2027</text>
+</svg>

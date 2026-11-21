@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="309" viewBox="0 0 800 309" role="img" aria-labelledby="t d">
+<title id="t">psql session</title><desc id="d">An animated psql session that inserts you into collaborations.</desc>
+<defs>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#0E1529"/><stop offset="1" stop-color="#080C18"/>
+</linearGradient>
+</defs>
+<style>
+.s{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.m{font-family:"JetBrains Mono","Fira Code",ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+@keyframes blink{0%,49%{fill-opacity:1}50%,100%{fill-opacity:0}}
+@keyframes flow{to{stroke-dashoffset:-20}}
+.cur{animation:blink 1.1s steps(1) infinite}
+.flow{stroke-dasharray:5 5;animation:flow 1.4s linear infinite}
+@media (prefers-reduced-motion:reduce){.cur,.flow{animation:none}}
+@keyframes l0{0%,4.0%{opacity:0}5.2%,90%{opacity:1}96%,100%{opacity:0}}.l0{animation:l0 13.0s infinite}@keyframes l1{0%,13.5%{opacity:0}14.7%,90%{opacity:1}96%,100%{opacity:0}}.l1{animation:l1 13.0s infinite}@keyframes l2{0%,23.0%{opacity:0}24.2%,90%{opacity:1}96%,100%{opacity:0}}.l2{animation:l2 13.0s infinite}@keyframes l3{0%,32.5%{opacity:0}33.7%,90%{opacity:1}96%,100%{opacity:0}}.l3{animation:l3 13.0s infinite}@keyframes l4{0%,42.0%{opacity:0}43.2%,90%{opacity:1}96%,100%{opacity:0}}.l4{animation:l4 13.0s infinite}@keyframes l5{0%,51.5%{opacity:0}52.7%,90%{opacity:1}96%,100%{opacity:0}}.l5{animation:l5 13.0s infinite}@keyframes l6{0%,61.0%{opacity:0}62.2%,90%{opacity:1}96%,100%{opacity:0}}.l6{animation:l6 13.0s infinite}@keyframes l7{0%,70.5%{opacity:0}71.7%,90%{opacity:1}96%,100%{opacity:0}}.l7{animation:l7 13.0s infinite}@media (prefers-reduced-motion:reduce){.ln{animation:none!important;opacity:1}}</style>
+<rect x="5" y="5" width="790" height="299" rx="18" fill="url(#panel)" stroke="#222B47" stroke-width="1"/><text class="m" x="33" y="41" font-size="12.5" font-weight="400" fill="#707CA0">-- thanks for stopping by</text><line x1="19" y1="57" x2="781" y2="57" stroke="#222B47"/><g class="l0 ln"><text class="m" x="33" y="91" font-size="14.5" font-weight="500" style="white-space:pre"><tspan fill="#5EE6B8">shashwat=# </tspan><tspan fill="#6EA8FF">BEGIN</tspan><tspan fill="#9AA5C4">;</tspan></text></g><g class="l1 ln"><text class="m" x="33" y="116" font-size="14.5" font-weight="500" fill="#9AA5C4">BEGIN</text></g><g class="l2 ln"><text class="m" x="33" y="141" font-size="14.5" font-weight="500" style="white-space:pre"><tspan fill="#5EE6B8">shashwat=# </tspan><tspan fill="#6EA8FF">INSERT INTO</tspan><tspan fill="#5EE6B8"> collaborations </tspan><tspan fill="#E8ECF8">(who, what)</tspan></text></g><g class="l3 ln"><text class="m" x="33" y="166" font-size="14.5" font-weight="500" style="white-space:pre"><tspan fill="#5EE6B8">shashwat-# </tspan><tspan fill="#6EA8FF">VALUES</tspan><tspan fill="#E8ECF8"> (</tspan><tspan fill="#FFB454">&#x27;you&#x27;</tspan><tspan fill="#E8ECF8">, </tspan><tspan fill="#FFB454">&#x27;something worth building&#x27;</tspan><tspan fill="#E8ECF8">);</tspan></text></g><g class="l4 ln"><text class="m" x="33" y="191" font-size="14.5" font-weight="500" fill="#9AA5C4">INSERT 0 1</text></g><g class="l5 ln"><text class="m" x="33" y="216" font-size="14.5" font-weight="500" style="white-space:pre"><tspan fill="#5EE6B8">shashwat=# </tspan><tspan fill="#6EA8FF">COMMIT</tspan><tspan fill="#9AA5C4">;</tspan></text></g><g class="l6 ln"><text class="m" x="33" y="241" font-size="14.5" font-weight="500" fill="#9AA5C4">COMMIT</text></g><g class="l7 ln"><text class="m" x="33" y="266" font-size="14.5" font-weight="500" style="white-space:pre"><tspan fill="#5EE6B8">shashwat=# </tspan><tspan class="cur" fill="#FFB454">▌</tspan></text></g>
+</svg>

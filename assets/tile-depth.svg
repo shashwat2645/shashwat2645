@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="148" viewBox="0 0 264 148" role="img" aria-labelledby="t d">
+<title id="t">SQL + DBMS</title><desc id="d">Relational databases and how queries run.</desc>
+<defs>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#0E1529"/><stop offset="1" stop-color="#080C18"/>
+</linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#6EA8FF" stop-opacity="0.2"/><stop offset="1" stop-color="#6EA8FF" stop-opacity="0"/></radialGradient></defs>
+<style>
+.s{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.m{font-family:"JetBrains Mono","Fira Code",ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+@keyframes blink{0%,49%{fill-opacity:1}50%,100%{fill-opacity:0}}
+@keyframes flow{to{stroke-dashoffset:-20}}
+.cur{animation:blink 1.1s steps(1) infinite}
+.flow{stroke-dasharray:5 5;animation:flow 1.4s linear infinite}
+@media (prefers-reduced-motion:reduce){.cur,.flow{animation:none}}
+</style>
+<rect x="5" y="5" width="254" height="138" rx="16" fill="url(#panel)" stroke="#222B47" stroke-width="1"/><clipPath id="pc"><rect x="5" y="5" width="254" height="138" rx="16"/></clipPath><g clip-path="url(#pc)"><circle cx="5" cy="5" r="150" fill="url(#glow)"/></g><text class="m" x="25" y="39" font-size="11" font-weight="700" fill="#6EA8FF" letter-spacing="1.6">DEPTH</text><text class="s" x="25" y="77" font-size="25" font-weight="800" fill="#E8ECF8">SQL + DBMS</text><text class="s" x="25" y="103" font-size="13.5" font-weight="400" fill="#9AA5C4">Relational databases and how</text><text class="s" x="25" y="122" font-size="13.5" font-weight="400" fill="#9AA5C4">queries run.</text>
+</svg>
