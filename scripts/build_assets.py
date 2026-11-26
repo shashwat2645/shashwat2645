@@ -68,12 +68,18 @@ CFG = dict(
                    "model weights; smart contracts reward contributors."),
              chips=["PyTorch", "Solidity", "Ethereum", "React"],
              url="https://github.com/VisheshDubey26/AI-Cyber-Threat-Intelligence"),
-        dict(key="lexfile", kind="in progress", accent="mint",
+        dict(key="lexfile", kind="planned", accent="mint", planned=True,
              title="LexFile",
-             desc=("Legal-info assistant for Indian law: statute passages with source links, facts "
-                   "pulled from your documents, and questions instead of guesses."),
+             desc=("Indian law assistant with sourced statute passages, document facts and "
+                   "follow-up questions."),
              chips=["Python", "FastAPI", "PostgreSQL"],
              url=None),  # repo not created yet: set the URL here once it exists
+        dict(key="banking", kind="in progress", accent="blue",
+             title="Banking Transaction System",
+             desc=("A banking backend for account balances, secure fund transfers and reliable "
+                   "transaction records."),
+             chips=["Java", "Spring Boot", "Maven", "PostgreSQL"],
+             url=None),
         dict(key="guardian", kind="hackathon MVP", accent="amber",
              title="Deadline Guardian AI",
              desc=("Turns deadlines into plans: priority analysis, an execution planner, risk prediction "
