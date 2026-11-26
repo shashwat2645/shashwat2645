@@ -42,7 +42,6 @@
   <img src="assets/project-lexfile.svg" width="398" alt="LexFile">
   <img src="assets/project-banking.svg" width="398" alt="Banking Transaction System">
   <a href="https://github.com/shashwat2645?tab=repositories&q=deadline"><img src="assets/project-guardian.svg" width="398" alt="Deadline Guardian AI"></a>
-  <img src="assets/project-worksync.svg" width="398" alt="WorkSync">
 </p>
 
 <p align="center"><img src="assets/h-proof.svg" width="800" alt="SELECT * FROM achievements"></p>
