@@ -86,12 +86,6 @@ CFG = dict(
                    "and a daily coach, powered by Gemini on a FastAPI + React stack."),
              chips=["FastAPI", "React", "Gemini", "Alembic"],
              url=repo_search("deadline")),  # swap for the exact repo URL if you like
-        dict(key="worksync", kind="planned", accent="blue", planned=True,
-             title="WorkSync",
-             desc=("A team and project management backend: JWT auth, role-based access and a relational "
-                   "schema for workspaces, projects, tasks and comments."),
-             chips=["FastAPI", "PostgreSQL", "SQLAlchemy 2.0", "JWT"],
-             url=None),
     ],
     achievements=[  # file stem, label, title, sub-line, chip, accent
         ("ach-placement", "PLACEMENT", "Newgen · LTM", "Placed at both as a final-year student.",
